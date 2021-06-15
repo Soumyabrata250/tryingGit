@@ -4,6 +4,6 @@ using namespace std;
 int main()
 {
     int a = 10, b = 20;
-    cout << "Print sum " << a + b;
+    cout << "Print sum: " << a + b << a - b;
     return 0;
 }
